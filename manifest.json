@@ -1,0 +1,28 @@
+{
+  "manifest_version": 3,
+  "name": "Gruvbox Light Theme",
+  "version": "0.1",
+  "description": "A light Gruvbox-inspired theme for Microsoft Edge and Google Chrome",
+  "theme": {
+    "colors": {
+      "frame": [146, 131, 116],
+      "frame_inactive": [189, 174, 147],
+      "toolbar": [251, 241, 199],
+      "toolbar_text": [60, 56, 54],
+      "toolbar_button_icon": [60, 56, 54],
+      "tab_text": [60, 56, 54],
+      "tab_background_text": [235, 219, 178],
+      "ntp_background": [251, 241, 199],
+      "ntp_text": [60, 56, 54],
+      "bookmark_text": [60, 56, 54],
+      "button_background": [233, 213, 156]
+    },
+    "tints": {
+      "buttons": [0.96, 0.92, 0.85]
+    },
+    "properties": {
+      "ntp_background_alignment": "center",
+      "ntp_background_tiling": "no-repeat"
+    }
+  }
+}
